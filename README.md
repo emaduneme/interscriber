@@ -172,7 +172,7 @@ This project was built collaboratively with AI coding assistants:
 - **[Anthropic Claude Code](https://claude.ai/code)** — architecture, debugging, feature implementation, and code review throughout the project
 - **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli)** — research, ideation, and development support
 
-InterScriber is an example of what's possible when human domain expertise (journalism, qualitative research) is paired with AI-assisted development. The entire tool was scoped, built, and refined through conversation — no prior web development experience required.
+InterScriber is an example of what's possible when human domain expertise (journalism, qualitative research) is paired with AI-assisted development.
 
 ---
 
