@@ -1,0 +1,4 @@
+openai-whisper>=20231117
+streamlit
+groq
+python-dotenv

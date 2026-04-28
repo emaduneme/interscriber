@@ -1,0 +1,17 @@
+# Ignore all environment variables except the example
+.env*
+!.env.example
+
+# Ignore ALL media and generated transcripts, but track the folders
+raw/*
+!raw/.gitkeep
+transcripts/*
+!transcripts/.gitkeep
+takes_packed.md
+
+# Virtual environments and python caches
+.venv/
+__pycache__/
+
+# OS generated files
+.DS_Store
